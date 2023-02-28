@@ -5,6 +5,6 @@ if not _G[gvar] then
 
 	--/ Lua to load here
 	
-  print('Loaded')
+ 	print('Test')
   
 end
